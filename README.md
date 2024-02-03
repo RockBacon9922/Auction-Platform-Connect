@@ -1,4 +1,4 @@
-# Gavel Conenct
+# Auction Platform Connect
 
 This is a [Plasmo extension](https://docs.plasmo.com/) project bootstrapped with [`plasmo init`](https://www.npmjs.com/package/plasmo).
 
@@ -10,7 +10,7 @@ pnpm i && pnpm dev
 
 ## About
 
-Gavel Connect was my attempt to join auction platforms together so that only one auction clerk would be required to run an auction on multiple platforms.
+Auction Platform Connect was my attempt to join auction platforms together so that only one auction clerk would be required to run an auction on multiple platforms.
 
 Unfortunately, the platform Bidspirit beat me to the gun with this project and released their own version of this idea, making my project redundant.
 
